@@ -13,7 +13,11 @@
     </a>
 </h1>
 
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h2 align="center">
+    <a href="#h1">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=545252&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Frontend+developer;Solving+problems+using+technology...!;From+Vietnam+😊" alt="Aspiring Frontend developer" />
+    </a>
+</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyetha79&label=Profile%20views&color=0e75b6&style=flat" alt="nguyetha79" /> </p>
