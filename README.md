@@ -14,7 +14,7 @@
 </h1>
 
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark”/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyetha79&label=Profile%20views&color=0e75b6&style=flat" alt="nguyetha79" /> </p>
 
