@@ -22,7 +22,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyetha79&label=Profile%20views&color=0e75b6&style=flat" alt="nguyetha79" /> </p>
 
-- 🔭 I’m currently working on **Gefahrstoff KI**
+- 🔭 I’m currently working on **Hazardous Substances AI**
 
 - 🌱 I’m currently learning **Next.js & Typescript**
 
