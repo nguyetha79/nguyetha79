@@ -26,13 +26,13 @@
 
 - 🌱 I’m currently learning **Next.js & Typescript**
 
-- 👨‍💻 All of my projects are available at [abc.com](abc.com)
+- 👨‍💻 All of my projects are available at [https://nguyethaphung-portfolio.netlify.app](https://nguyethaphung-portfolio.netlify.app)
 
 - 💬 Ask me about **React, MERN**
 
 - 📫 How to reach me **nguyetha.phung00@gmail.com**
 
-- ⚡ Fun fact **I like new technology**
+- ⚡ Fun fact **I like new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
