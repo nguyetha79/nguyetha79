@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
+    <img src="https://github.com/nguyetha79/nguyetha79/blob/main/github-banner.png" alt="Banner Loading...">
 </a>
 
 <h1 align="center">Hi 
