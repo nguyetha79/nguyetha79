@@ -23,7 +23,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyetha79&label=Profile%20views&color=0e75b6&style=flat" alt="nguyetha79" /> </p>
 
-- 🔭 I’m currently working on **Optimazation Workflow with Chatbot Genie AI/BI**
+- 🔭 I’m currently working on **Optimazition Workflow with Chatbot Genie AI/BI**
 
 - 🌱 I’m currently learning **Databricks Tools**
 
