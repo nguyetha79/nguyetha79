@@ -9,7 +9,7 @@
     </a>, 
 	I'm Nguyet Ha Phung 	
 	<a href="#h1" target="_blank" rel="noreferrer">
-        <img src="https://github.com/nguyetha79/nguyetha79/blob/main/girl-working.gif" width="36" />
+                <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" />
     </a>
 </h1>
 
@@ -18,7 +18,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=545252&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Frontend+developer;Solving+problems+using+technology...!;From+Vietnam+😊" alt="Aspiring Frontend developer" />
     </a>
 </h2>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/nguyetha79/nguyetha79/blob/main/girl-working.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyetha79&label=Profile%20views&color=0e75b6&style=flat" alt="nguyetha79" /> </p>
 
