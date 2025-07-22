@@ -29,8 +29,6 @@
 
 - 👨‍💻 All of my projects are available at [https://nguyethaphung-portfolio.netlify.app](https://nguyethaphung-portfolio.netlify.app)
 
-- 💬 Ask me about **Data Analysis, ETL Process**
-
 - 📫 How to reach me **nguyetha.phung00@gmail.com**
 
 - ⚡ Fun fact **I like new technologies**
